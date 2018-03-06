@@ -1,0 +1,9 @@
+/Users/apple/Projects/BMIcalculator/BMIcalculator/bin/iPhoneSimulator/Debug/BMIcalculator.exe
+/Users/apple/Projects/BMIcalculator/BMIcalculator/bin/iPhoneSimulator/Debug/BMIcalculator.pdb
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/BMIcalculator.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/BMIcalculator.exe
+/Users/apple/Projects/BMIcalculator/BMIcalculator/obj/iPhoneSimulator/Debug/BMIcalculator.pdb

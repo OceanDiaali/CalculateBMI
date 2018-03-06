@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EBE3E1DD-4597-40FF-969E-ED1ADD3B6902}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMIcalculator/AppDelegate.cs">
+    <Files>
+      <File FileName="BMIcalculator/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BMIcalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.94F39807-1EC2-4C5C-8F0B-E750A621CB28">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BMIcalculator>
+</Properties>
